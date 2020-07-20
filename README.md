@@ -11,8 +11,7 @@ Most Intrested topic: Multithreading.:fire: :fire:
 
 Technologies:
 
-    Javascript, Vue , Java  Core Java
-    Node
+    Javascript, Vue , Java ,Core Java, Node
 
 Also interested in:
 
