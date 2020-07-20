@@ -1,4 +1,5 @@
 # Thanos
+:trollface:
 # this.
 
 ### I am a Computer Science Engineer.
@@ -19,4 +20,4 @@ Also interested in:
 
 Process ended in 1 ms.
 
-# Shrihari Shetty
+### Shrihari Shetty
