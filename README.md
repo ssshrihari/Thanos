@@ -1,5 +1,4 @@
-
-:trollface::
+:trollface:
 ### I am a Computer Science Engineer.
 ### I love programming in Java,C#
 ### Passionate about problem solving.
