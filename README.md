@@ -6,4 +6,3 @@ Most Intrested topic: Multithreading,Authentication.:fire: :fire:
 Technologies:
     Javascript, Vue , Java ,Core Java, Node
 Process ended in 1 ms.
-### Shrihari Shetty
