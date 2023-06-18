@@ -2,7 +2,7 @@
 
 I've spent the past few years honing my skills and contributing to a variety of projects, from scalable web development to robust microservice architectures. 
 
-I have a strong focus on building efficient, scalable, and fault-tolerant systems. 
+I have a strong focus on building efficient and scalable systems. 
 
 I'm always excited to collaborate on projects and eager to learn more.
 
